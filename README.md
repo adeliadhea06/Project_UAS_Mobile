@@ -50,6 +50,7 @@ Di MainActivity ini berisi program java yang memiliki fungsi penghubung dari sem
 
 Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program yang sudah dijelaskan diatas. Beginilah tampilan dari layoutnya :
 
+![Screenshot_2024-01-16-14-12-04-84_5027186e974a64b7907b5f3d6bdc4b89](https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/87e3369d-3849-4efc-b7e8-657b44daf7c5)
 
 
 > Iconnya disini sudah Saya usahakan agar sesuai dengan identitas dari activitynya.
@@ -79,6 +80,8 @@ Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya
 - Hasil Run Hello World
 
 
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/9cc300de-45e9-4fe0-8139-e71a333ccf25
+
 
 - CountActivity.java
 
@@ -90,6 +93,8 @@ Ini adalah layout dari activity count, ada beberapa tombol disini seperti set li
 
 - Hasil Run Count
 
+
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/455fff97-ad70-4a90-8163-0ca5ecf8cc7d
 
 
 e. Source Code Activity Scroll Movie
@@ -105,6 +110,8 @@ Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ad
 - Hasil Run Sianida
 
 
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/bfd4c66f-dddb-41cc-a51f-3f2c468736a4
+
 
 f. Source Code Activity TwoActivity
 
@@ -118,6 +125,8 @@ Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat 
 
 - Hasil Run TwoActivity
 
+
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/50922615-cbb9-4816-a4e5-35022eb46f1d
 
 
 g. Source Code Alarm
@@ -149,6 +158,8 @@ ini:
 - Hasil Run Alarm
 
 
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/4c979f65-ebfb-4d8e-a9e3-7fad36f77437
+
 
 h. Source Code Open Maps
 
@@ -164,6 +175,8 @@ h. Source Code Open Maps
 
 - Hasil Run Open Maps
 
+
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/eb468611-3f8e-4d61-a205-90193055cfe4
 
 
 i. Source Code Activity Fragment
@@ -197,9 +210,7 @@ Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didal
 - Hasil Run Fragment
 
 
-
-# Hasil Akhir dari semua Activity
-
+https://github.com/dheadwiadelia/Project_UAS_Mobile/assets/115794875/21cebf82-3c8c-4347-9aea-f0af6ba7a2e9
 
 
 # Sekian Terima Kasih
