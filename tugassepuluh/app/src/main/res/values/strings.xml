@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Final APP</string>
+
+    <string name="map">Show Map</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_twoactivity">Project TwoActivity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+
+    <string name="Tab_1">Action</string>
+    <string name="Tab_2">Horror</string>
+    <string name="Tab_3">Comedy</string>
+
+
+    <string name="hello_text">>_Hello World!</string>
+
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
+
+    <string name="button_label_toast">Desk</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">Kasus kopi sianida berawal dari pertemuan Jessica Wongso, Mirna, dan Hanie Boon Juwita di Kafe Olivier Grand Indonesia (GI) pada 6 Januari 2016. Jessica datang lebih dahulu dan memesan tempat dilayani resepsionis Cindy yang menawarkan meja nomor 54.
+
+Lalu, ia pergi dan kembali lagi membawa tas kertas, kemudian memesan es kopi Vietnam serta dua koktail. Setelah ia membayar, penyaji mengantarkan minuman ke meja 54. \n\n
+
+
+Beberapa menit kemudian, Mirna dan Hani datang secara bersamaan. Mirna meminum es kopi Vietnam dan mengatakan rasanya tidak enak sambil mengibaskan tangan di depan mulutnya.\n\n
+
+
+Tidak lama kemudian, tubuh Mirna kejang, tidak sadarkan diri, dan mengeluarkan buih dari mulut. Mirna langsung dibawa ke klinik di GI. Kemudian, suami Mirna, Arief Soemarko datang membawanya ke Rumah Sakit (RS) Abdi Waluyo ditemani Jessica dan Hanie.
+
+Namun, nyawa Mirna tidak terselamatkan. Ayah Mirna, Edi Dharmawan Salihin langsung melaporkan kematian anaknya ke Polsek Metro Tanah Abang karena dianggap tidak wajar.\n
+
+
+Tiga hari setelah kematian, Direktur Reserse Kriminal Umum Polda Metro Jaya, Krishna Murti meminta izin kepada ayahnya agar diautopsi. Namun, jenazah hanya diizinkan untuk diambil sampel dari bagian tubuhnya dan menemukan zat racun. Lalu, pada 10 Januari 2016, jenazah Mirna dimakamkan di Gunung Gadung, Bogor.\n\n
+
+
+<b>Pra-rekonstruksi dan penetapan tersangka</b>\n
+
+Mengacu Antara, satu hari setelah Mirna dikubur, polisi melangsungkan pra-rekonstruksi di Kafe Olivier yang menghadirkan Jessica, Hanie, dan pegawai Olivier. Setelah itu, Puslabfor Mabes Polri mengumumkan, ada sianida dalam kopi dan lambung Mirna.
+
+Penyidik Polisi kemudian memanggil Jessica dan keluarga Mirna, yaitu Dharmawan, Sendy Salihin (saudari kembarnya), serta Arief. Penyidik melakukan gelar perkara, menetapkan Jessica sebagai tersangka pembunuhan, dan menangkapnya di sebuah hotel Jakarta Utara.\n\n
+
+
+<b>Rekonstruksi dan Praperadilan</b>\n
+
+Pada Februari 2016, polisi menggelar rekonstruksi tewasnya Mirna di Kafe Olivier. Jessica menolaknya karena dinilai itu sebagai "versi polisi". Setelah itu, ia menjalani tes kejiwaan di RS Cipto Mangunkusumo untuk mengetahui pribadi dan motif.
+
+Kemudian, penasihat hukum Jessica mengajukan pra-peradilan ke Pengadilan Negeri (PN) Jakarta Pusat (Jakpus) karena penetapan tersangka dianggap tidak sah. Namun, upaya tersebut pupus sehingga Jessica ditahan sampai akhir Mei 2016.
+
+Persidangan perdana dan saksi kunci
+
+Pada 15 Juni 2016, sidang perdana Jessica digelar dengan agenda pembacaan eksepsi oleh pengacara Jessica, Sordame Purba. Ia menyebut dakwaan jaksa terlalu dangkal untuk tuduhan pembunuhan berencana. Lalu, pada 28 Juni 2016, Hakim PN Jakpus menolak seluruh eksepsi karena dakwaan jaksa telah lengkap dan jelas.
+
+Pada 12 Juli 2016, keluarga Mirna (Dharmawan, Sendy, dan Arief) memberikan keterangan yang mengarah kepada kecurigaan Jessica. Esoknya, saksi kunci, Hanie dihadirkan. Ia sempat mencicipi es kopi Vietnam dan merasakan rasa panas di lidah. Ia juga menceritakan situasi kedatangannya di kafe sampai di RS Abdi Waluyo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Action</string>
+    <string name="second">Comedy</string>
+    <string name="third">Romance</string>
+
+
+    <string name="movies">MOVIES</string>
+
+    <string name="action1">Tarung Sarung</string>
+    <string name="action2">Darah Daging</string>
+    <string name="action3">Wiro Sableng</string>
+    <string name="action4">Merah Putih</string>
+    <string name="sinopsisa1">Film action ini mengangkat sisi bela diri tradisional Tarung Sarung dengan dibalut elemen modern.
+
+Bercerita tentang Deni Ruso (Panji Zoni), anak dari keluarga terkaya di Jakarta. Kekuasaan dan harta bikin Deni semena-mena dan berkelahi.
+
+Suatu ketika, ia terlibat dalam perkelahian yang membuatnya hampir membunuh orang. Keluarganya mengirim Deni ke Makassar untuk memperbaiki diri.Di sana, ia bertemu dengan Tenri (Maizura), gadis yang menarik hatinya. Ia rela melakukan apapun, termasuk menjuarai kompetisi tarung sarung untuk mendapatkan hatinya.</string>
+    <string name="sinopsisa2">film rilisan 2019 berjudul Darah Daging. Film ini dibintangi oleh aktor papan atas Indonesia, yakni Ario Bayu, Donny Alamsyah, dan Estelle Linden.
+
+Menceritakan kisah 3 bersaudara, Arya (Ario Bayu), Rahmat (Rangga Nattra), dan Fikri (Arnold Leonard) yang harus merampok bank demi menyelamatkan nyawa sang ibu (Karina Soewandi).
+
+Sayangnya, perampokan ini memakan banyak korban. 14 tahun kemudian, seorang penulis bernama Hana (Estelle Linden) mewawancarai seorang perampok bernama Salim (Donny Alamsyah) yang membongkar apa yang terjadi saat perampokan tersebut.</string>
+    <string name="sinopsisa3">Film Wiro Sableng: Pendekar Kapak Maut Naga Geni 212 berkisah tentang Wiro Sableng yang diutus oleh gurunya untuk melawan Mahesa Birawa (Yayan Ruhiyan), seorang murid yang berkhianat.
+
+Kisah film pendekar asli Indonesia ini penuh dengan aksi dan komedi yang akan membuat kamu terus ketawa dan kecanduan untuk menonton, terutama lewat karakter Wiro.
+
+Film ini juga yang Jaka nyatakan sebagai film action Indonesia dengan efek visual terbaik. Seberapa bagus, sih? Mending langsung tonton saja biar nggak makin penasaran, geng.</string>
+    <string name="sinopsisa4">Film Wiro Sableng: Pendekar Kapak Maut Naga Geni 212 berkisah tentang Wiro Sableng yang diutus oleh gurunya untuk melawan Mahesa Birawa (Yayan Ruhiyan), seorang murid yang berkhianat.
+
+Kisah film pendekar asli Indonesia ini penuh dengan aksi dan komedi yang akan membuat kamu terus ketawa dan kecanduan untuk menonton, terutama lewat karakter Wiro.
+
+Film ini juga yang Jaka nyatakan sebagai film action Indonesia dengan efek visual terbaik. Seberapa bagus, sih? Mending langsung tonton saja biar nggak makin penasaran, geng.</string>
+    <string name="ratinga1">8.0</string>
+    <string name="ratinga2">8.4</string>
+    <string name="ratinga3">9.2</string>
+    <string name="ratinga4">7.0</string>
+
+    <string name="comedy1">Ganjil Genap</string>
+    <string name="comedy2">Miracle In Cell no 7</string>
+    <string name="comedy3">My Stupid Boss</string>
+    <string name="comedy4">Warkop DKI Reborn: Jangkrik Boss! Part 1</string>
+    <string name="sinopsisc1">Ganjil Genap adalah film komedi Indonesia yang mengisahkan tentang Gala dan Bara, sepasang kekasih yang sudah berpacaran selama delapan tahun. Gala meminta Bara untuk menikah, tetapi hubungan mereka hancur ketika Bara memutuskan berpisah. Aiman mencoba membantu Gala, tetapi hubungan mereka juga menjadi rumit. Gala kemudian menyadari bahwa Aiman adalah sosok yang sama dengan Bara.</string>
+    <string name="sinopsisc2">Film ini mengisahkan tentang Dodo Rozak, seorang penjual balon berusia 20 tahun yang menyandang disabilitas intelektual. Ia harus menghadapi tuduhan pembunuhan dan pemerkosaan yang salah, sehingga masuk ke dalam sel nomor tujuh sebuah penjara.
+
+Di dalam sel tersebut, Dodo bersahabat dengan para narapidana lain dan berjuang mencari cara untuk menyelamatkan putrinya, Ika Kartika. Film ini menyoroti persahabatan, kejujuran, dan keajaiban yang tak terduga dalam situasi yang sulit.</string>
+    <string name="sinopsisc3"> Film ini mengisahkan tentang hubungan antara seorang karyawan bernama Diana dan bosnya yang berkelakuan super ajaib, Bossman.
+
+Diana tinggal di Kuala Lumpur mengikuti suaminya, Dika yang bekerja di sana. Ketika Diana melamar bekerja di sebuah perusahaan, kebetulan bosnya adalah teman kuliah Dika sewaktu di Amerika. Perilaku unik Bossman membuat hubungan mereka penuh dengan kekonyolan dan komedi.</string>
+    <string name="sinopsisc4">Film komedi Indonesia ini mengisahkan tentang tiga sahabat, Dono , Kasino, dan Indro, yang bekerja sebagai petugas keamanan di organisasi CHIIPS. Meskipun tugas mereka adalah menertibkan dan menjaga keamanan masyarakat, kelakuan konyol dan bermasalah mereka selalu membuat jengkel atasannya.
+
+Kehadiran Sophie, anggota CHIIPS dari Paris, membawa mereka pada petualangan kocak untuk mencari harta karun guna membayar denda Rp8 miliar dan menghindari penjara.</string>
+    <string name="ratingc1">8.0</string>
+    <string name="ratingc2">7.9</string>
+    <string name="ratingc3">8.4</string>
+    <string name="ratingc4">7.0</string>
+
+    <string name="romance1">Dear Nathan</string>
+    <string name="romance2">Cinta Subuh</string>
+    <string name="romance3">Toko Barang Mantan</string>
+    <string name="romance4">Galih dan Ratna</string>
+    <string name="sinopsisr1">Dear, Nathan: Thank You Salma mengisahkan seorang aktivis kampus yang sibuk dengan berbagai kegiatan.
+
+Percintaan keduanya semakin terasingkan ketika Salma didekati dengan Afkar, teman lelakinya yang sekaligus sahabat.
+
+Keduanya saling menaruh hati hari demi hari. Seiring waktu berlanjut, Salma sadar kalau sikapnya tersebut salah sebagai pujaan hati Nathan.</string>
+    <string name="sinopsisr2">Cinta Subuh ini menceritakan tentang kisah gadis cantik, Ratih (Dinda Hauw) yang selalu diminta untuk menikah oleh sang kakak yang diperankan oleh Dimas Seto.
+
+Namun, sosok pria yang tengah dekatnya kini, Angga (Rey Mbayang) tidak turut melamarnya yang membuat hubungan keduanya berjalan tidak jelas.
+
+</string>
+    <string name="sinopsisr3">Bercerita tentang seorang pria bernama Tristan (Reza Rahadian) yang memutuskan untuk berhenti kuliah dan mendirikan Toko Barang Mantan.
+
+Usahanya ini sengaja ia buat untuk orang-orang yang ingin move on dari mantannya.
+</string>
+    <string name="sinopsisr4"> Film yang satu ini merupakan remake dari film berjudul Gita Cinta dari SMA yang dirilis pada 1979 silam.
+
+Galih dan Ratna mengisahkan tentang cinta masa SMA antara Galih (Refal Hady) dan Ratna (Sheryl Sheinafia).
+
+Keduanya memiliki hubungan dekat karena sama-sama tertarik dengan musik.
+
+Namun, terdapat beberapa perbedaan antara keduanya yang menjadi ancaman bagi nasib hubungan Galih dan Ratna.</string>
+    <string name="ratingr1">7.9</string>
+    <string name="ratingr2">8.0</string>
+    <string name="ratingr3">8.9</string>
+    <string name="ratingr4">8.8</string>
+
+</resources>
